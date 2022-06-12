@@ -1,2 +1,2 @@
-# flask-api-caching
+# Flask API Caching
 Flask API caching using Redis
